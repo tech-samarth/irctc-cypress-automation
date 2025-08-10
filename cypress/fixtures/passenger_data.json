@@ -1,27 +1,20 @@
 {
-  "TRAIN_NO": "13185",
+  "TRAIN_NO": "12314",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAVEL_DATE": "12/08/2025",
+  "SOURCE_STATION": "NDLS",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "DRG",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Samarth",
+      "AGE": 18,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
+      "SEAT": "Side Lower",
+      "FOOD": "Veg"
     }
   ],
   "__valid_coaches__": "SL | 2A | 3A | 3E | 1A | CC | EC | 2S",
